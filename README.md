@@ -8,8 +8,8 @@
 
 ##### WORKS & STUDIES
 - ✨ Currently, I'm an IT Consulting Engineer at [**SAP**](https://www.sap.com)
-- 🎓 Previously, I was an Engineering CS Student at [**EPITA**](https://www.epita.fr/en/)
-- 🍏 Beside my work, I'm the President of [**EpiMac**](http://www.epimac.org)
+- 🎓 Previously, I was an Engineering CS Student at [**@EPITA**](https://www.github.com/epita) & [**@EPITAICE**](https://www.github.com/epitaice)
+- 🍏 Beside my work, I'm the President of [**EpiMac**](http://www.epimac.org) and a Tech Advisor at [**@LesEtudiantsDeLaTech**](https://www.github.com/lesetudiantsdelatech)
 
 ##### MORE ABOUT ME
 - ♥️ Learning all about **IoT**, **iOS Development**, **RPA** & **Embedded Systems**

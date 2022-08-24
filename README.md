@@ -7,12 +7,12 @@
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently, I'm an IT Consulting Engineer at [**SAP**](https://www.sap.com)
-- 🎓 Previously, I was an Engineering CS Student at [**@EPITA**](https://www.github.com/epita) & [**@EPITAICE**](https://www.github.com/epitaice)
-- 🍏 Beside my work, I'm the President of [**EpiMac**](http://www.epimac.org) and a Tech Advisor at [**@LesEtudiantsDeLaTech**](https://www.github.com/lesetudiantsdelatech)
+- ✨ Currently, I'm a Software Engineer & Consultant at [**SAP**](https://www.sap.com)
+- 🎓 I graduated with an Engineering Degree in Computer Science from [**@EPITA**](https://www.github.com/epita), in the [**@EPITAICE**](https://www.github.com/epitaice) major
+- 🍏 Beside my main job, I'm the Executive Vice-President of [**@LesEtudiantsDeLaTech**](https://www.github.com/lesetudiantsdelatech) and Member of the Board of [**EpiMac**](http://www.epimac.org)
 
 ##### MORE ABOUT ME
-- ♥️ Learning all about **IoT**, **iOS Development**, **RPA** & **Embedded Systems**
+- ♥️ Learning all about **Internet of Things**, **iOS Development**, **Process Automation** (RPA) & **Embedded Systems**
 - 🇫🇷 I work and live mainly in **Paris, France**
 - ⚙️ I use daily: `.js`, `.swift`, `.java`, `.sketch`, `.dart`, `.c`, `.python`
 - 📫 Ping me on [Twitter](https://twitter.com/tomeliott) or on my [website](https://tomeliott.com)

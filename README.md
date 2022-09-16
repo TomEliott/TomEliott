@@ -3,11 +3,12 @@
 <p align="center">
   <a href="https://tomeliott.com">Website</a> •
   <a href="https://twitter.com/tomeliott">Twitter</a> •
+  <a href="https://www.linkedin.com/in/tomeliott/">LinkedIn</a> •
   <a href="https://find3r.eu">Blog (soon)</a>
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently, I'm a Software Engineer & Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) (part of Bouygues Group).
+- ✨ Currently, I'm a Software Engineer & Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) (part of Bouygues Group)
 - 🎓 I graduated with an Engineering Degree in Computer Science from [**@EPITA**](https://www.github.com/epita), in the [**@EPITAICE**](https://www.github.com/epitaice) major
 - 🍏 Beside my main job, I'm the Executive Vice-President of [**@LesEtudiantsDeLaTech**](https://www.github.com/lesetudiantsdelatech) and Member of the Board of [**EpiMac**](http://www.epimac.org)
 

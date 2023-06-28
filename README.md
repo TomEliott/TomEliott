@@ -10,7 +10,7 @@
 ##### WORKS & STUDIES
 - ✨ Currently, I'm an Automation Engineer & Project Manager/Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) (part of Bouygues Group)
 - 🎓 I graduated with an Engineering Degree in Computer Science from [**@EPITA**](https://www.github.com/epita), in the [**@EPITAICE**](https://www.github.com/epitaice) major
-- 🍏 Beside my main job, I'm the Executive Vice-President of [**@LesEtudiantsDeLaTech**](https://www.github.com/lesetudiantsdelatech) and Member of the Board of [**EpiMac**](http://www.epimac.org)
+- 🍏 Beside my main job, I'm the Executive Vice-President of [**@TechUp**](https://www.github.com/lesetudiantsdelatech) and Head of the Board of [**EpiMac**](http://www.epimac.org)
 
 ##### MORE ABOUT ME
 - ♥️ Learning all about **Internet of Things**, **iOS Development**, **Process Automation** (RPA) & **Embedded Systems**

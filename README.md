@@ -8,13 +8,13 @@
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently, I'm a Software Engineer & Project Manager/Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) (part of Bouygues Group)
-- 🎓 I graduated with an Engineering Degree in Computer Science from [**@EPITA**](https://www.github.com/epita), in the [**@EPITAICE**](https://www.github.com/epitaice) major
-- 🌱 Beside my main job, I'm the Executive Vice-President of [**@TechUp**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs
+- ✨ Currently Software Engineer & Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) ([**@BouyguesTelecom**](https://github.com/bouyguestelecom) Entreprises, part of Bouygues Group)
+- 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science, in the [**@EPITAICE**](https://www.github.com/epitaice) major
+- 🌱 Beside my main job, Executive Vice-President of [**@TechUpNetwork**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs, and Partner at [**@UpscaleOrganization**](https://github.com/upscaleorganization), a think tank for innovative technological-related projects
 
 ##### MORE ABOUT ME
-- ♥️ Learning all about **IoT**, **Mobile Development**, **AI / Machine Learning**, **Process Automation** (RPA) & **Embedded Systems**
-- 🇫🇷 I work and live mainly in **Paris, France**
-- ⚙️ I use daily: `.js`, `.vbs`, `.swift`, `.java`, `.sketch`, `.dart`, `.c`, `.python`
-- 📫 Follow me on [X](https://twitter.com/tomeliott) or ping me on my [website](https://tomeliott.com)
-- 🚀 I'm a huge fan of Star Wars. *This is the way*
+- ♥️ Learning all about **IoT**, **Mobile Development**, **AI & Process Automation** (RPA) and **Embedded Systems**
+- 🇫🇷 Work and live mainly the City of Love, **Paris (France)**
+- ⚙️ Use daily: `.js`, `.vbs`, `.swift`, `.java`, `.sketch`, `.dart`, `.c` and `.python`
+- 📫 Follow me on [X](https://x.com/tomeliott) or on on my [website](https://tomeliott.com)
+- 🚀 *The Force is strong with me* : I'm a huge fan of Star Wars.

@@ -2,15 +2,15 @@
 <h3 align="center">Hello there! I'm Tom-Eliott</h3>
 <p align="center">
   <a href="https://tomeliott.com">Website</a> •
-  <a href="https://twitter.com/tomeliott">X</a> •
+  <a href="https://x.com/tomeliott">X</a> •
   <a href="https://www.linkedin.com/in/tomeliott/">LinkedIn</a> •
   <a href="https://find3r.eu">Blog (soon)</a>
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently Software Engineer & Consultant at [**C2S Bouygues**](https://www.c2s-bouygues.com) ([**@BouyguesTelecom**](https://github.com/bouyguestelecom) Entreprises, part of Bouygues Group)
-- 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science, in the [**@EPITAICE**](https://www.github.com/epitaice) major
-- 🌱 Beside my main job, Executive Vice-President of [**@TechUpNetwork**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs, and Partner at [**@UpscaleOrganization**](https://github.com/upscaleorganization), a think tank for innovative technological-related projects
+- ✨ Currently Software Engineer & Consultant at [**Bouygues Telecom Business C2S**](https://www.bouyguestelecom-entreprises.fr/business), part of Bouygues Group
+- 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science
+- 🌱 Beside my main job, Executive Vice-President of [**@TechUpNetwork**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs.
 
 ##### MORE ABOUT ME
 - ♥️ Learning all about **IoT**, **Mobile Development**, **AI & Process Automation** (RPA) and **Embedded Systems**

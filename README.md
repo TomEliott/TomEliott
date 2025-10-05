@@ -8,7 +8,7 @@
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently Software Engineer & Consultant at [**Bouygues Telecom Business C2S**](https://www.bouyguestelecom-entreprises.fr/business), part of Bouygues Group
+- ✨ Currently Software Engineer & Consultant at [**Bouygues Telecom Business Solution**](https://www.bouyguestelecom-business.fr/qui-sommes-nous/), part of Bouygues Group
 - 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science
 - 🌱 Beside my main job, Executive Vice-President of [**@TechUpNetwork**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs.
 

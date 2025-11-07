@@ -3,13 +3,12 @@
 <p align="center">
   <a href="https://tomeliott.com">Website</a> •
   <a href="https://x.com/tomeliott">X</a> •
-  <a href="https://www.linkedin.com/in/tomeliott/">LinkedIn</a> •
-  <a href="https://find3r.eu">Blog (soon)</a>
+  <a href="https://www.linkedin.com/in/tomeliott/">LinkedIn</a>
 </p>
 
 ##### WORKS & STUDIES
-- ✨ Currently Software Engineer & Consultant at [**Bouygues Telecom Business Solution**](https://www.bouyguestelecom-business.fr/qui-sommes-nous/), part of Bouygues Group
-- 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science
+- ✨ Currently Solutions Adoption Lead at [**Bouygues Telecom Business Solution**](https://www.bouyguestelecom-solution.fr), part of the Bouygues Group.
+- 🎓 Graduated from [**@EPITA**](https://www.github.com/epita) with a Master/Engineering Degree in Computer Science.
 - 🌱 Beside my main job, Executive Vice-President of [**@TechUpNetwork**](https://github.com/techupnetwork), a non-profit organization for young entrepreneurs.
 
 ##### MORE ABOUT ME
